@@ -1,0 +1,18 @@
+import pandas as pd
+
+data = {
+    "Name": ["Arun", "Varun", "Karun", "Narun", "Marun"],
+    "Age": [28, 34, 22, 34, 28],
+    "Salary": [50000, 60000, 45000, 52000, 480000]
+}
+
+df = pd.DataFrame(data)
+
+grouped = df.groupby("Age")["Salary"].sum()
+
+print(grouped)
+# Age
+# 22     45000
+# 28    530000
+# 34    112000
+# Name: Salary, dtype: int64
