@@ -5,7 +5,7 @@
 </p>
  
 <h2 align="center">
-  Data Manipulation & Analysis with Python 📊
+  Data Manipulation & Analysis with Python 📊 
 </h2>
 
 <p align="center">
