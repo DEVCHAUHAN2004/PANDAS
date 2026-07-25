@@ -4,7 +4,7 @@
   <img src="https://pandas.pydata.org/static/img/pandas.svg" width="250">
 </p>
  
-<h2 align="center">
+<h2 align="center"> 
   Data Manipulation & Analysis with Python 📊 
 </h2>
 
